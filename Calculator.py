@@ -23,3 +23,5 @@ while input("Do you want open calculator? , Type 'y' or 'n': ").lower() == "y":
         print("Floor Division of", n, "and", m, "is", ans6)
 else:
     print("Thanks for showing up!!")
+
+print("Thank you for using ")
